@@ -1,6 +1,6 @@
 # bysykkel
 Javakode skrevet i eclipse.
-Bruk gson-2.6.2.jar og json-simple-1.1.jar for å bygge (disse importeres i koden og må være tilgjengelige). 
+Bruk gson-2.6.2.jar og json-simple-1.1.jar for å bygge (disse importeres i koden og må være tilgjengelige). I tillegg trengs standard JRE System library.
 I ecplise lastes de ved å høyreklikke på prosjektet, velge 
 "Build path" -> "Configure build path" -> "Add External JARs".
 
